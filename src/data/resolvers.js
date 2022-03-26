@@ -1,5 +1,5 @@
 import { Contacts } from "./dbConnectors";
-
+// resolver learning git
 export const resolvers = {
   Query: {
     getContacts: () => {
