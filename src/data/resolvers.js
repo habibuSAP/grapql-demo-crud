@@ -1,5 +1,5 @@
 import { Contacts } from "./dbConnectors";
-// resolvers hjrejhfvakjfvdja
+
 export const resolvers = {
   Query: {
     getContacts: () => {
